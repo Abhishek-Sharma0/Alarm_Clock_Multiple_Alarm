@@ -91,13 +91,13 @@
     background-color: #d2e2ff;
   }
   .alarm input[type="checkbox"]:checked:before {
-    background-color: #377dff;
+    background-color: #101a2b;
     left: 2em;
   }
   .deleteButton {
     background-color: transparent;
     font-size: 1.5em;
-    color: #377dff;
+    color: #000000;
     border: none;
     cursor: pointer;
   }
