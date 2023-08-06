@@ -5,13 +5,13 @@
     font-family: "Poppins", sans-serif;
   }
   body {
-    background-color: rgb(128,128,128);
+    background-color: rgb(105,105,105);
   }
   .hide {
     display: none;
   }
   .wrapper {
-    background-color: rgb(1,2,3);
+    background-color: rgb(102, 153, 204);
     width: 90%;
     max-width: 31.25em;
     padding: 3.12em 5em;
